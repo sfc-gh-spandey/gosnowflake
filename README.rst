@@ -99,3 +99,6 @@ Submitting Pull Requests
 ----------------------------------------------------------------------
 
 You may use your preferred editor to edit the driver code. Make certain to run ``make fmt lint`` before submitting any pull request to Snowflake. This command formats your source code according to the standard Go style and detects any coding style issues.
+
+
+test push
